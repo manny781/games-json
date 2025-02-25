@@ -1,0 +1,226 @@
+[
+  {
+    "title": "GTA San Andreas",
+    "download_link": "https://gamingbeasts.com/690-free-gta-san-andreas-download-game/"
+  },
+  {
+    "title": "Don Bradman Cricket 17",
+    "download_link": "https://gamingbeasts.com/don-bradman-cricket-17-pc-download/l"
+  },
+  {
+    "title": "The Outer Worlds",
+    "download_link": "https://gamingbeasts.com/14-the-outer-worlds-download-free-pc-game/"
+  },
+  {
+    "title": "Starfield Digital Edition",
+    "download_link": "https://gamingbeasts.com/1-starfield-digital-edition-free-pc-game-download/"
+  },
+  {
+    "title": "Displaced Defense",
+    "download_link": "https://gamingbeasts.com/1-displaced-defense-free-pc-game-download/"
+  },
+  {
+    "title": "Middle-earth: Shadow of War",
+    "download_link": "https://gamingbeasts.com/27-middle-earth-shadow-of-war-pc-game-download-pc-full-game/"
+  },
+  {
+    "title": "Free Risk of Rain 2",
+    "download_link": "https://gamingbeasts.com/25-free-risk-of-rain-2-pc-download-game-full-version/"
+  },
+  {
+    "title": "Returnal",
+    "download_link": "https://gamingbeasts.com/29-returnal-free-download/"
+  },
+  {
+    "title": "It Takes Two",
+    "download_link": "https://gamingbeasts.com/38-download-game-pc-free-full-version-it-takes-two-for-free/"
+  },
+  {
+    "title": "WWE 2K23",
+    "download_link": "https://gamingbeasts.com/21-free-game-download-wwe-2k23-pc-game-full-version/"
+  },
+  {
+    "title": "Kerbal Space Program 2",
+    "download_link": "https://gamingbeasts.com/38-free-download-game-pc-free-kerbal-space-program-2-full-free/"
+  },
+  {
+    "title": "Flower Memories",
+    "download_link": "https://gamingbeasts.com/1-flower-memories-pc-game-download/"
+  },
+  {
+    "title": "Trauma",
+    "download_link": "https://gamingbeasts.com/1-trauma-pc-game-download/"
+  },
+  {
+    "title": "Borderlands (Full Game)",
+    "download_link": "https://gamingbeasts.com/28-free-download-full-game-pc-full-borderlands-game-pc-free/"
+  },
+  {
+    "title": "Urban Fight",
+    "download_link": "https://gamingbeasts.com/urban-fight-pc-free-game-download/"
+  },
+  {
+    "title": "Voyage",
+    "download_link": "https://gamingbeasts.com/voyage-free-pc-game-download/"
+  },
+  {
+    "title": "Aerial Platforms",
+    "download_link": "https://gamingbeasts.com/aerial-platforms-pc-free-game-download/"
+  },
+  {
+    "title": "The Orange Box",
+    "download_link": "https://gamingbeasts.com/the-orange-box-free-pc-game-download/"
+  },
+  {
+    "title": "Gun Crazy",
+    "download_link": "https://gamingbeasts.com/gun-crazy-download-free-pc-game/"
+  },
+  {
+    "title": "Mad Games Tycoon 2",
+    "download_link": "https://gamingbeasts.com/1-mad-games-tycoon-2-free-pc-game-download/"
+  },
+  {
+    "title": "Otome Domain",
+    "download_link": "https://gamingbeasts.com/1-otome-domain-pc-free-game-download/"
+  },
+  {
+    "title": "Chillas Art Parasocial",
+    "download_link": "https://gamingbeasts.com/chillas-art-parasocial-free-pc-game-download/"
+  },
+  {
+    "title": "10 Second Ninja X",
+    "download_link": "https://gamingbeasts.com/10-second-ninja-x-pc-full-version-free-download/"
+  },
+  {
+    "title": "1000 Days to Escape",
+    "download_link": "https://gamingbeasts.com/1000-days-to-escape-pc-game-free-download/"
+  },
+  {
+    "title": "Operator Download PC",
+    "download_link": "https://gamingbeasts.com/iuoisd-hjjhs-7823-pc-download-game-112-operator-download-pc-dhs/"
+  },
+  {
+    "title": "Minesweeper Variants 2",
+    "download_link": "https://gamingbeasts.com/14-minesweeper-variants-2-free-pc-game-download/"
+  },
+  {
+    "title": "Wheels of Steel: Extreme Trucker",
+    "download_link": "https://gamingbeasts.com/18-wheels-of-steel-extreme-trucker-download-full-pc-version-for-free/"
+  },
+  {
+    "title": "1 Week Download Free PC Game",
+    "download_link": "https://gamingbeasts.com/1week-download-free-pc-game/"
+  },
+  {
+    "title": "NBA 2K21",
+    "download_link": "https://gamingbeasts.com/35-nba-2k21-pc-free-download/"
+  },
+  {
+    "title": "NBA 2K12",
+    "download_link": "https://gamingbeasts.com/63-nba-2k12-free-game-download/"
+  },
+  {
+    "title": "NBA 2K17",
+    "download_link": "https://gamingbeasts.com/22-free-download-nba-2k17-pc-game-full-version-now/"
+  },
+  {
+    "title": "NBA 2K18",
+    "download_link": "https://gamingbeasts.com/62-download-pc-game-nba-2k18-pc-game-full-version/"
+  },
+  {
+    "title": "NBA 2K20",
+    "download_link": "https://gamingbeasts.com/23-free-download-game-pc-nba-2k20-full-version-free/"
+  },
+  {
+    "title": "NBA 2K23",
+    "download_link": "https://gamingbeasts.com/34-free-game-download-nba-2k23-full-version-game/"
+  },
+  {
+    "title": "NBA 2K19",
+    "download_link": "https://gamingbeasts.com/48-nba-2k19-pc-game-download/"
+  },
+  {
+    "title": "NBA 2K Playgrounds 2",
+    "download_link": "https://gamingbeasts.com/53-nba-2k-playgrounds-2-pc-game-download/"
+  },
+  {
+    "title": "Call of Duty: Black Ops IV",
+    "download_link": "https://gamingbeasts.com/download-call-of-duty-black-ops-4-pc-game/"
+  },
+  {
+    "title": "Call of Duty: Ghosts",
+    "download_link": "https://gamingbeasts.com/1-call-of-duty-ghosts-download-full-pc-version-for-free/"
+  },
+  {
+    "title": "Just Cause 4",
+    "download_link": "https://gamingbeasts.com/55-just-cause-4-pc-game-free-download/"
+  },
+  {
+    "title": "Battlefield 4",
+    "download_link": "https://gamingbeasts.com/38-download-pc-game-battlefield-4/"
+  },
+  {
+    "title": "Battlefield 5",
+    "download_link": "https://gamingbeasts.com/44-free-game-download-battlefield-5-pc-free-game/"
+  },
+  {
+    "title": "Battlefield 4 (Full)",
+    "download_link": "https://gamingbeasts.com/29-battlefield-4-download-full-game-pc-1/"
+  },
+  {
+    "title": "Battlefield Vietnam",
+    "download_link": "https://gamingbeasts.com/30-battlefield-vietnam-download-full-pc-version-for-free/"
+  },
+  {
+    "title": "Battlefield 1942",
+    "download_link": "https://gamingbeasts.com/35-battlefield-1942-download-full-version-for-free/"
+  },
+  {
+    "title": "Battlefield Hardline",
+    "download_link": "https://gamingbeasts.com/34-battlefield-hardline-pc-download-game/"
+  },
+  {
+    "title": "Battlefield 1",
+    "download_link": "https://gamingbeasts.com/45-battlefield-1-pc-free-download-game-full-version/"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "download_link": "https://gamingbeasts.com/31-free-game-download-red-dead-redemption-2-full-version-pc/"
+  },
+  {
+    "title": "Resident Evil Revelations",
+    "download_link": "https://gamingbeasts.com/102-resident-evil-revelations-pc-game-download/"
+  },
+  {
+    "title": "Far Cry 4",
+    "download_link": "https://gamingbeasts.com/98-far-cry-4-pc-game-download/"
+  },
+  {
+    "title": "GTA 4",
+    "download_link": "https://gamingbeasts.com/255-free-gta-4-game-download-pc/"
+  },
+  {
+    "title": "Battlefield 2",
+    "download_link": "https://gamingbeasts.com/43-free-download-game-pc-full-version-battlefield-2-free-full-version/"
+  },
+  {
+    "title": "The Hunter",
+    "download_link": "https://www.download-free-games.com/mobile/the_hunter"
+  },
+  {
+    "title": "Moonshades",
+    "download_link": "https://www.download-free-games.com/mobile/moonshades"
+  },
+  {
+    "title": "Fear Response",
+    "download_link": "https://poki.com/en/g/fear-response"
+  },
+  {
+    "title": "Dark Skies: The Nemansk Incident",
+    "download_link": "https://gamingbeasts.com/dark-skies-the-nemansk-incident-download-pc-game/"
+  },
+  {
+    "title": "My Beautiful Paper Smile",
+    "download_link": "https://gamingbeasts.com/my-beautiful-paper-smile-pc-free-game-download/"
+  }
+]
